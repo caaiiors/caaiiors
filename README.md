@@ -7,4 +7,4 @@
 
 - 📫 Meu email: **caiorissa@gmail.com**
 
-<h3>Descubra mais sobre mim e sobre meus projetos na minha pagina! <a href="https://caiorissa.vercel.app"></a></h3>
+<h3>Descubra mais sobre mim e sobre meus projetos na minha <a href="https://caiorissa.vercel.app">pagina!</a></h3>
