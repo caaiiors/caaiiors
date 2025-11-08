@@ -1,9 +1,9 @@
 <h1 align="center">Olá, me chamo Caio</h1>
 <h3 align="center">Sou um estudante na area de programação!</h3>
 
-- 🌱 Atualmente eu estou aprendendo **Javascript**
+- 🌱 Atualmente eu estou aprendendo **React e Tailwind CSS**
 
-- 🤝 Eu procuro ajuda em **Javascript e C#**
+- 🤝 Eu procuro ajuda em **React**
 
 - 📫 Meu email: **caiorissa@gmail.com**
 
